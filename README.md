@@ -30,5 +30,8 @@ Scraped detailed information for a selection of 10 cheeses, including milk type,
 - [Cheese.com](https://www.cheese.com) for data
 - [ChatGPT](https://chat.openai.com/chat) for initial code guidance
 
-## Conclusion
-This project highlights the intricacies of web scraping while adhering to web standards and showcases the learning process involved in coding complex tasks in R.
+## Example Output
+Below is the example output of the final dataset of cheese attributes. 
+
+![Screenshot 2024-09-25 at 4 37 45 PM](https://github.com/user-attachments/assets/7036d0a1-905d-4aff-b5ff-f6b119d78504)
+
